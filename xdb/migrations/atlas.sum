@@ -1,0 +1,4 @@
+h1:Eil3FQxVuGvD+J/A/rHBEM+RLgFfBl5NkCricwHth/Y=
+20260204090058_add_user_is_active_column.up.sql h1:7hRhHrd96J4MtGbgcM9+UO3ur0ZllW1Bz++GK0tUyHs=
+20260204091128_add_user_role_column.up.sql h1:eP2PN4vVcSxE5+WRQ9T0/5TrWRdroxKfnB0a6ZkTjbo=
+20260204091330_change_user_role_column_type.up.sql h1:gv2DJ0Kr2RUYBCYN8DWcaQMm6P9La20iSEbsN5HRK9w=
